@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleSignIb</string>
+    <string name="default_client_id">445077025852-i0v1mlpnht4k10nninnsjhjmfg8l458b.apps.googleusercontent.com</string>
+    <string name="default_clientt_id">445077025852-iuha3ie8pfkohcmal1ufvr2srnkvoleg.apps.googleusercontent.com</string>
+    <string name="h">User not Logged In.</string>
+
+
+</resources>
